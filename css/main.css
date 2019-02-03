@@ -16,7 +16,7 @@ li{
 	font-family:verdana;
 }
 
-header nav a{
+header a{
 	color:white;
 	font-family:verdana;
 	text-decoration: none; /*gets rid of line under links*/
@@ -24,8 +24,12 @@ header nav a{
 footer{
 	background-color:indigo;
 }
+footer a{
+	color:white;
+	text-decoration:none
+}
 .current{
 	text-transform: uppercase;
-	color: darkslategrey;
+	color: white;
 	background-color:magenta;
 }
